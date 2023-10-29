@@ -865,6 +865,12 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/129368
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3391
 #EXTINF:-1 tvg-name="VIKINGOS"tvg-logo="https://tse2.mm.bing.net/th?id=OIP.b09b8MnsVl9QhwETqZ6CKQHaKj&pid=Api&P=0&w=400&h=570"group-title="24/7 | SERIE",VIKINGOS
 http://paputv.xyz:8080/jamescrema/9LYDhqmf8tVh/374012
+#EXTINF:-1 tvg-name="Canal 13 HD"tvg-logo="https://i.imgur.com/VSeM7hr.png"group-title="EVENTOS",Canal 13 HD
+http://45.232.210.1:8062/play/a07g/index.m3u8
+#EXTINF:-1 tvg-name="Chilevision HD"tvg-logo="https://i.imgur.com/K5djQcA.png"group-title="EVENTOS",Chilevision HD
+http://45.232.210.1:8062/play/a07d/index.m3u8
+#EXTINF:-1 tvg-name="TVN HD"tvg-logo="https://i.imgur.com/xWjDJ4T.png"group-title="EVENTOS",TVN HD
+http://45.232.210.1:8062/play/a085/index.m3u8
 #EXTINF:-1 tvg-name="CDO"tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png"group-title="EVENTOS",CDO
 http://190.211.250.148:8000/play/a05w
 #EXTINF:-1 tvg-name="CDO 2"tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png"group-title="EVENTOS",CDO 2
@@ -897,13 +903,11 @@ https://redirector.dps.live/hls/13gopan7/playlist.m3u8
 https://redirector.dps.live/hls/13gopan8/playlist.m3u8
 #EXTINF:-1 tvg-name="Panamericanos 2023  (Señal 10)"tvg-logo=""group-title="EVENTOS",Panamericanos 2023  (Señal 10)
 https://redirector.dps.live/hls/13gopan9/playlist.m3u8
+#EXTINF:-1 tvg-name="Tierra Brava Extendida"tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png"group-title="EVENTOS",Tierra Brava Extendida
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDs0hX2eUH-pbZg-Y8G-Tuov6soxKzDNMFGMtJB1UFhAL/ts
 #EXTINF:-1 tvg-name="Gran Hermano Chile"tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png
 https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es"group-title="EVENTOS",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="Tierra Brava Extendida"tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png"group-title="EVENTOS",Tierra Brava Extendida
-http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDs0hX2eUH-pbZg-Y8G-Tuov6soxKzDNMFGMtJB1UFhAL/ts
-#EXTINF:-1 tvg-name="Animax Radio"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es"group-title="RADIO",Animax Radio
-https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 #EXTINF:-1 tvg-name="Con ctate Retro Hits Radio"tvg-logo="https://i.imgur.com/JLAqSvn.png"group-title="RADIO",Con ctate Retro Hits Radio
 https://us9.maindigitalstream.com/ssl/7686i
 #EXTINF:-1 tvg-name="Los 40 Classic"tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_classic.png"group-title="RADIO",Los 40 Classic
