@@ -14,7 +14,7 @@ http://45.232.210.1:8062/play/a07k/index.m3u8
 #EXTINF:-1 tvg-name="Via X"tvg-logo="https://i.imgur.com/t4uDjkZ.png"group-title="TV | NACIONAL",Via X
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/51
 #EXTINF:-1 tvg-name="Zona Latina"tvg-logo="https://i.imgur.com/QdKVrH2.png"group-title="TV | NACIONAL",Zona Latina
-http://45.232.210.1:8062/play/a09h/index.m3u8
+http://191.97.49.195:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="CNN Chile HD"tvg-logo="https://i.imgur.com/H85BuCH.png"group-title="TV | NACIONAL",CNN Chile HD
 http://45.232.210.1:8062/play/a09j/index.m3u8
 #EXTINF:-1 tvg-name="CNN en Espanol"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"group-title="TV | NACIONAL",CNN en Espanol
@@ -51,7 +51,9 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4187
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/219
 #EXTINF:-1 tvg-name="DHE"tvg-logo="https://i.postimg.cc/NjHys1f0/Canal-DHE-logo-svg.png"group-title="TV | CINE",DHE
 http://170.82.37.21:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-name="FILMRISE ESPA OL"tvg-logo="https://i.postimg.cc/sXDxSFmV/1200px-Filmrise-svg.png"group-title="TV | CINE",FILMRISE ESPA OL
+#EXTINF:-1 tvg-name="DE PELICULA"tvg-logo="https://i.postimg.cc/qR2HXwhK/OIP.jpg"group-title="TV | CINE",DE PELICULA
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/69
+#EXTINF:-1 tvg-name="FILMRISE ESPAÑOL"tvg-logo="https://i.postimg.cc/sXDxSFmV/1200px-Filmrise-svg.png"group-title="TV | CINE",FILMRISE ESPAÑOL
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
 #EXTINF:-1 tvg-name="FMH FAMILY"tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg"group-title="TV | CINE",FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
@@ -63,6 +65,10 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/25
 http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="Golden Plus"tvg-logo="https://i.imgur.com/pRo7XnL.png"group-title="TV | CINE",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLDEN EDGE"tvg-logo="https://i.postimg.cc/KvpXC2sG/OIP-1.jpg"group-title="TV | CINE",GOLDEN EDGE
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
+#EXTINF:-1 tvg-name="GOLDEN PREMIER"tvg-logo="https://i.postimg.cc/SQVHz446/OIP-2.jpg"group-title="TV | CINE",GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 2 HD"tvg-logo="https://i.imgur.com/0ZIg4nK.png"group-title="TV | CINE",HBO 2 HD
 http://170.82.37.21:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-name="HBO Family HD"tvg-logo="https://i.imgur.com/PrtPbTs.png"group-title="TV | CINE",HBO Family HD
@@ -73,6 +79,8 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/239
 http://sudaka.link:25461/exequiel/exequiel/15056
 #EXTINF:-1 tvg-name="HBO Signature"tvg-logo="https://i.imgur.com/LDhywb7.png"group-title="TV | CINE",HBO Signature
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/175
+#EXTINF:-1 tvg-name="HBO POP "tvg-logo="https://i.postimg.cc/pTXyFQjZ/HBO-Pop.png"group-title="TV | CINE",HBO POP
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/218719
 #EXTINF:-1 tvg-name="HBO Xtreme HD"tvg-logo="https://i.imgur.com/XiFLX2a.png"group-title="TV | CINE",HBO Xtreme HD
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4183
 #EXTINF:-1 tvg-name="HBO+ HD"tvg-logo="https://i.imgur.com/zc7XbrP.png"group-title="TV | CINE",HBO+ HD
@@ -85,6 +93,12 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8?Playli
 http://45.173.201.50:4000/play/a01y
 #EXTINF:-1 tvg-name="Multipremier"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png"group-title="TV | CINE",Multipremier
 http://45.173.201.50:4000/play/a037
+#EXTINF:-1 tvg-name="MX FAMILY"tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg"group-title="TV | CINE",MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 tvg-name="MX CLASSIC"tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg"group-title="TV | CINE",MX CLASSIC
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+#EXTINF:-1 tvg-name="MX PRIME"tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg"group-title="TV | CINE",MX PRIME
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-name="Neo TV Argentina"tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="TV | CINE",Neo TV Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-name="Panc TV HD"tvg-logo="https://i.imgur.com/zKWk5Ea.jpg"group-title="TV | CINE",Panc TV HD
@@ -97,7 +111,9 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w1169082194.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1498398425.m3u8
 #EXTINF:-1 tvg-name="Sony Channel"tvg-logo="https://i.imgur.com/nxYZ6vf.png"group-title="TV | CINE",Sony Channel
 http://170.82.37.21:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-name="Space HD"tvg-logo="https://i.imgur.com/4x5z6Tg.png"group-title="TV | CINE",Space HD
+#EXTINF:-1 tvg-name="SONY MOVIES"tvg-logo="https://i.postimg.cc/pTjXLd4J/Sony-Movies-2019.png"group-title="TV | CINE",SONY MOVIES
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-name="Space HD"tvg-logo="http://45.166.92.22:58001/play/a00u/index.m3u8"group-title="TV | CINE",Space HD
 http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel"tvg-logo="https://i.imgur.com/4mrYZ2W.png"group-title="TV | CINE",Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
@@ -129,6 +145,8 @@ http://45.232.210.1:8062/play/tnthd/index.m3u8
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Retro"tvg-logo="https://i.imgur.com/mZNsS9S.png"group-title="TV | CINE",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-name="WARNER HD"tvg-logo="https://i.postimg.cc/Pf7r0Jrx/Warner-Bros-Discovery-2022-s-mbolo.png"group-title="TV | CINE",WARNER HD
+http://tv.nousiptv.com:8080/AR10465/10465R/4053
 #EXTINF:-1 tvg-name="CDO Basico"tvg-logo="https://i.imgur.com/OOv9wxj.png"group-title="TV | DEPORTE",CDO Basico
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/154
 #EXTINF:-1 tvg-name="CDO Premium"tvg-logo="https://i.imgur.com/OOv9wxj.png"group-title="TV | DEPORTE",CDO Premium
@@ -137,7 +155,7 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/155
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Chilevision Deportes PlutoTV"tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/LOGO-CHVDeportes-PlutoTV.png"group-title="TV | DEPORTE",Chilevision Deportes PlutoTV
 https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports "tvg-logo="https://i.imgur.com/laikTq4.png"group-title="TV | DEPORTE",BeIN Sports 
+#EXTINF:-1 tvg-name="BeIN Sports "tvg-logo="https://i.imgur.com/laikTq4.png"group-title="TV | DEPORTE",BeIN Sports
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Claro Sports HD"tvg-logo="https://i.imgur.com/faAcn1X.png"group-title="TV | DEPORTE",Claro Sports HD
 http://sudaka.link:25461/exequiel/exequiel/13992
@@ -239,6 +257,8 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4189
 http://181.78.22.70:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD"tvg-logo="https://i.ibb.co/vLpWckD/nat-geo-wild.jpg"group-title="TV | CULTURA",NATIONAL GEOGRAPHIC WILD
 http://playhispano.org:8080/HernandezJoel/202022/118258
+#EXTINF:-1 tvg-name="Saber Mas"tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png"group-title="TV | CULTURA",Saber Mas
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
 #EXTINF:-1 tvg-name="TravelXP 4K"tvg-logo="https://i.postimg.cc/1zMCM6Gp/LOGO-CANALE.jpg"group-title="TV | CULTURA",TravelXP 4K
 http://95.67.12.82:9086
 #EXTINF:-1 tvg-name="Baby TV"tvg-logo="https://i.imgur.com/YvWbTxY.png"group-title="TV | INFANTIL",Baby TV
@@ -352,7 +372,7 @@ http://160.20.165.246:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-name="MiMusica Salsa"tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png"group-title="TV | MUSICA",MiMusica Salsa
 http://160.20.165.246:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png"group-title="TV | MUSICA",MTV 00s
-http://177.53.153.21:8001/play/a09c/index.m3u8
+http://181.78.105.146:6060/play/a03o
 #EXTINF:-1 tvg-name="MTV 80s"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png"group-title="TV | MUSICA",MTV 80s
 http://85.196.241.136:28656/udp/239.130.3.22:7051
 #EXTINF:-1 tvg-name="MTV 90s"tvg-logo="https://i.imgur.com/DOMYSRo.png"group-title="TV | MUSICA",MTV 90s
@@ -639,6 +659,128 @@ https://panel.miplay.cl:8081/tvmas2/index.m3u8
 https://redirector.dps.live/hls/tvr/playlist.m3u8
 #EXTINF:-1 tvg-name="UCV TV"tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ucvtv.png"group-title="TV | REGIONALES",UCV TV
 https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UCV  TV 2"tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png"group-title="TV | REGIONALES",UCV  TV 2
+https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="AMC 4K"tvg-logo="https://i.postimg.cc/fyNdLXLM/AMC-29.png"group-title="TV | CANALES 4K",AMC 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156117
+#EXTINF:-1 tvg-name="A&E 4K"tvg-logo="https://i.postimg.cc/JnQFt7hB/A-E-2008.png"group-title="TV | CANALES 4K",A&E 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156118
+#EXTINF:-1 tvg-name="AXN 4K"tvg-logo="https://i.postimg.cc/Jn1mzzL9/AXN-2015.png"group-title="TV | CANALES 4K",AXN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156119
+#EXTINF:-1 tvg-name="America TV 4K"tvg-logo="https://i.postimg.cc/Bn6m4WkM/Am-rica-Canal-2-2020.png"group-title="TV | CANALES 4K",America TV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156120
+#EXTINF:-1 tvg-name="Animal Planet 4K"tvg-logo="https://i.postimg.cc/MZ3cNh0W/Animal-Planet-2018.png"group-title="TV | CANALES 4K",Animal Planet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156121
+#EXTINF:-1 tvg-name="CHV 4K"tvg-logo="https://i.postimg.cc/W11sV3sC/Chilevisi-n-2018-horizontal.png"group-title="TV | CANALES 4K",CHV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156122
+#EXTINF:-1 tvg-name="Canal 13 4K"tvg-logo="https://i.postimg.cc/pTxGN9Hn/Canal-13-Chile-2018.png"group-title="TV | CANALES 4K",Canal 13 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156123
+#EXTINF:-1 tvg-name="Caracol 4K"tvg-logo="https://i.postimg.cc/x8FVTGfZ/OIP.jpg"group-title="TV | CANALES 4K",Caracol 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156125
+#EXTINF:-1 tvg-name="Cartoon Network 4K"tvg-logo="https://i.postimg.cc/3RVzs8tM/Cartoon-Network-2010.png"group-title="TV | CANALES 4K",Cartoon Network 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156126
+#EXTINF:-1 tvg-name="Cinecanal 4K"tvg-logo="https://i.postimg.cc/k43xzLW1/Cinecanal-2018.png"group-title="TV | CANALES 4K",Cinecanal 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156127
+#EXTINF:-1 tvg-name="Cinemax 4K"tvg-logo="https://i.postimg.cc/QdcNSPxx/Cinemax-2011-29.png"group-title="TV | CANALES 4K",Cinemax 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156128
+#EXTINF:-1 tvg-name="DHE 4K"tvg-logo="https://i.postimg.cc/LXt0btgP/OIP-1.jpg"group-title="TV | CANALES 4K",DHE 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156129
+#EXTINF:-1 tvg-name="Discovery H&H 4K"tvg-logo="https://i.postimg.cc/MKVbb6Rc/OIP-2.jpg"group-title="TV | CANALES 4K",Discovery H&H 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156130
+#EXTINF:-1 tvg-name="Discovery 4K"tvg-logo="https://i.postimg.cc/4yBGrkHp/Discovery-Channel-2019.png"group-title="TV | CANALES 4K",Discovery 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156131
+#EXTINF:-1 tvg-name="Discovery Kids 4K"tvg-logo="https://i.postimg.cc/zvLp1TVp/Discovery-Kids-2021-2-D-sin-wordmark.png"group-title="TV | CANALES 4K",Discovery Kids 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156132
+#EXTINF:-1 tvg-name="Discovery Theater 4K"tvg-logo="https://i.postimg.cc/3xyB4X1T/OIP.jpg"group-title="TV | CANALES 4K",Discovery Theater 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156133
+#EXTINF:-1 tvg-name="Discovery World 4K"tvg-logo="https://i.postimg.cc/cH640JZX/OIP-1.jpg"group-title="TV | CANALES 4K",Discovery World 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156134
+#EXTINF:-1 tvg-name="Disney 4K"tvg-logo="https://i.postimg.cc/R0Yq3tgj/Disney-Channel-2019.png"group-title="TV | CANALES 4K",Disney 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156135
+#EXTINF:-1 tvg-name="ESPN 2  4K"tvg-logo="https://i.postimg.cc/SQ6N4Hp0/ESPN2-2006.png"group-title="TV | CANALES 4K",ESPN 2  4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156137
+#EXTINF:-1 tvg-name="ESPN 2 4K"tvg-logo="https://i.postimg.cc/SQ6N4Hp0/ESPN2-2006.png"group-title="TV | CANALES 4K",ESPN 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156139
+#EXTINF:-1 tvg-name="ESPN EXTRA 4K"tvg-logo="https://i.postimg.cc/pV4JYydv/OIP.jpg"group-title="TV | CANALES 4K",ESPN EXTRA 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156142
+#EXTINF:-1 tvg-name="ESPN 4K"tvg-logo="https://i.postimg.cc/W4gBjxfF/ESPN.png"group-title="TV | CANALES 4K",ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156143
+#EXTINF:-1 tvg-name="ESPN 4K"tvg-logo="https://i.postimg.cc/W4gBjxfF/ESPN.png"group-title="TV | CANALES 4K",ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156144
+#EXTINF:-1 tvg-name="ESPN 4K"tvg-logo="https://i.postimg.cc/W4gBjxfF/ESPN.png"group-title="TV | CANALES 4K",ESPN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156145
+#EXTINF:-1 tvg-name="El Gourmet 4K"tvg-logo="https://i.postimg.cc/GpF56GHv/Elgourmet-23.png"group-title="TV | CANALES 4K",El Gourmet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156146
+#EXTINF:-1 tvg-name="FOX Sports 2 4K"tvg-logo="https://i.postimg.cc/fLHBhKZS/Fox-Sports-2-Logo.png"group-title="TV | CANALES 4K",FOX Sports 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156148
+#EXTINF:-1 tvg-name="FX 4K"tvg-logo="https://i.postimg.cc/RVtywk4P/FX.png"group-title="TV | CANALES 4K",FX 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156149
+#EXTINF:-1 tvg-name="E! 4K"tvg-logo="https://i.postimg.cc/8zDKMsy5/E-1990.png"group-title="TV | CANALES 4K",E! 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156150
+#EXTINF:-1 tvg-name="Fox Sports 1 4K"tvg-logo="https://i.postimg.cc/X76Q6p68/OIP-1.jpg"group-title="TV | CANALES 4K",Fox Sports 1 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156151
+#EXTINF:-1 tvg-name="Fox Sports 3 4K"tvg-logo="https://i.postimg.cc/TYQmNwdh/OIP.jpg"group-title="TV | CANALES 4K",Fox Sports 3 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156152
+#EXTINF:-1 tvg-name="GOLPERU 4K"tvg-logo="https://i.postimg.cc/4N3nd1GN/Gol-Per-2019.png"group-title="TV | CANALES 4K",GOLPERU 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156153
+#EXTINF:-1 tvg-name="GolTV 4K"tvg-logo="https://i.postimg.cc/prSvyzQp/OIP-2.jpg"group-title="TV | CANALES 4K",GolTV 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156154
+#EXTINF:-1 tvg-name="Golden 4K"tvg-logo="https://i.postimg.cc/1XbxyPPF/OIP-3.jpg"group-title="TV | CANALES 4K",Golden 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156155
+#EXTINF:-1 tvg-name="HBO 2 4K"tvg-logo="https://i.postimg.cc/Jh7R6rh7/HBO2-logo.png"group-title="TV | CANALES 4K",HBO 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156156
+#EXTINF:-1 tvg-name="HBO Family 4K"tvg-logo="https://i.postimg.cc/vT5R8kmS/HBO-Family-2021.png"group-title="TV | CANALES 4K",HBO Family 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156157
+#EXTINF:-1 tvg-name="HBO DUAL AUDIO 4K"tvg-logo="https://i.postimg.cc/fbYYKvJQ/HBO.png"group-title="TV | CANALES 4K",HBO DUAL AUDIO 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156158
+#EXTINF:-1 tvg-name="HBO POP 4K"tvg-logo="https://i.postimg.cc/pTXyFQjZ/HBO-Pop.png"group-title="TV | CANALES 4K",HBO POP 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156160
+#EXTINF:-1 tvg-name="HBO XTREME 4K"tvg-logo="https://i.postimg.cc/s22vB97J/HBO-Xtreme.png"group-title="TV | CANALES 4K",HBO XTREME 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156161
+#EXTINF:-1 tvg-name="History 2 4K"tvg-logo="https://i.postimg.cc/5yQzXqcr/OIP.jpg"group-title="TV | CANALES 4K",History 2 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156162
+#EXTINF:-1 tvg-name="History Channel 4K"tvg-logo="https://i.postimg.cc/HWScgNMk/OIP-1.jpg"group-title="TV | CANALES 4K",History Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156163
+#EXTINF:-1 tvg-name="ID 4K"tvg-logo="https://i.postimg.cc/qMP7BHv4/Discovery-ID-2020.png"group-title="TV | CANALES 4K",ID 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156164
+#EXTINF:-1 tvg-name="Kanal D Drama 4K"tvg-logo="https://i.postimg.cc/qvrzXdVQ/Kanal-D-Drama-2018.png"group-title="TV | CANALES 4K",Kanal D Drama 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156165
+#EXTINF:-1 tvg-name="La Red 4K"tvg-logo="https://i.postimg.cc/Jz7Rz7Ww/La-Red-2021.png"group-title="TV | CANALES 4K",La Red 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156166
+#EXTINF:-1 tvg-name="Las Estrellas 4K"tvg-logo="https://i.postimg.cc/KzPWTLn0/Las-Estrellas-2016.png"group-title="TV | CANALES 4K",Las Estrellas 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156167
+#EXTINF:-1 tvg-name="Latina 4K"tvg-logo="https://i.postimg.cc/0yzHfhYM/Latina-TV-2022.png"group-title="TV | CANALES 4K",Latina 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156168
+#EXTINF:-1 tvg-name="MEGA 4K"tvg-logo="https://i.postimg.cc/MHsd0YXm/Mega-2020.png"group-title="TV | CANALES 4K",MEGA 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156170
+#EXTINF:-1 tvg-name="Movistar Deportes 4K"tvg-logo="https://i.postimg.cc/q73J9bTg/Movistar-Deportes.png"group-title="TV | CANALES 4K",Movistar Deportes 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156172
+#EXTINF:-1 tvg-name="Nat Geo 4K"tvg-logo="https://i.postimg.cc/mZzYmMhD/Nat-Geo-Wild.png"group-title="TV | CANALES 4K",Nat Geo 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156173
+#EXTINF:-1 tvg-name="STAR CHANNEL 4K"tvg-logo="https://i.postimg.cc/qRt3ZVJY/Star-Channel-2021.png"group-title="TV | CANALES 4K",STAR CHANNEL 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156176
+#EXTINF:-1 tvg-name="Sony 4K"tvg-logo="https://i.postimg.cc/6qnzgGWD/Sony-Pictures-Television-Alt-Print.png"group-title="TV | CANALES 4K",Sony 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156179
+#EXTINF:-1 tvg-name="Space 4K"tvg-logo="https://i.postimg.cc/k5MJ5xLv/Space-2008.png"group-title="TV | CANALES 4K",Space 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156180
+#EXTINF:-1 tvg-name="Studio Universal 4K"tvg-logo="https://i.postimg.cc/bv4B5P0S/Studio-Universal-2016.png"group-title="TV | CANALES 4K",Studio Universal 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156182
+#EXTINF:-1 tvg-name="Sun Channel 4K"tvg-logo="https://i.postimg.cc/2S698y2B/Sun-Channel-2022.png"group-title="TV | CANALES 4K",Sun Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156183
+#EXTINF:-1 tvg-name="TNT 4K"tvg-logo="https://i.postimg.cc/qqwQpHKL/TNT-2016.png"group-title="TV | CANALES 4K",TNT 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156184
+#EXTINF:-1 tvg-name="TNT Series 4K"tvg-logo="https://i.postimg.cc/GpDQHyY9/Tnt-series-latin-america.png"group-title="TV | CANALES 4K",TNT Series 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156186
+#EXTINF:-1 tvg-name="TVN 4K"tvg-logo="https://i.postimg.cc/rp518LXr/TVN-Chile-2020.png"group-title="TV | CANALES 4K",TVN 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156187
+#EXTINF:-1 tvg-name="TyC Sports 4K"tvg-logo="https://i.postimg.cc/m2h7P9WR/OIP.jpg"group-title="TV | CANALES 4K",TyC Sports 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156189
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL 4K"tvg-logo="https://i.postimg.cc/X7TBXDgc/Universal-Studios-2012-impreso-II.png"group-title="TV | CANALES 4K",UNIVERSAL CHANNEL 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156190
+#EXTINF:-1 tvg-name="Warner Channel 4K"tvg-logo="https://i.postimg.cc/ZR7CmfRN/OIP-1.jpg"group-title="TV | CANALES 4K",Warner Channel 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156191
+#EXTINF:-1 tvg-name="Win Sports+ 4K"tvg-logo="https://i.postimg.cc/RZ7hhCh4/OIP-2.jpg"group-title="TV | CANALES 4K",Win Sports+ 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156193
 #EXTINF:-1 tvg-name="ANIMANIACS SD"tvg-logo="https://i.postimg.cc/0yg25QVD/descarga.jpg"group-title="24/7 | ANIMACION",ANIMANIACS SD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/129354
 #EXTINF:-1 tvg-name="ASTRO BOY SD"tvg-logo="https://i.postimg.cc/6pYWr09L/cb03423cd92d1240f4bd7335f21a73cd0c46daffdfa49f1fdfb333bddd422498.jpg"group-title="24/7 | ANIMACION",ASTRO BOY SD
@@ -789,7 +931,7 @@ http://paputv.xyz:8080/jamescrema/9LYDhqmf8tVh/374012
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="Tierra Brava Extendida"tvg-logo="https://i.postimg.cc/15rdTknt/descarga.jpg"group-title="EVENTOS",Tierra Brava Extendida
 http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDs0hX2eUH-pbZg-Y8G-Tuov6soxKzDNMFGMtJB1UFhAL/ts
-#EXTINF:-1 tvg-name="Animax Radio"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es"group-title="RADIO",Animax Radio
+#EXTINF:-1 tvg-name="Animax Radio"tvg-logo="https://i.postimg.cc/VkxPp2cT/descarga.png"group-title="RADIO",Animax Radio
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 #EXTINF:-1 tvg-name="Con ctate Retro Hits Radio"tvg-logo="https://i.imgur.com/JLAqSvn.png"group-title="RADIO",Con ctate Retro Hits Radio
 https://us9.maindigitalstream.com/ssl/7686i
@@ -1275,6 +1417,44 @@ http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/102103.mp4
 http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/148226.mp4
 #EXTINF:-1 tvg-name="Transformers: El despertar de las bestias (2023)V.Ext."tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/6/w780/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg"group-title="VOD | Sagas",Transformers: El despertar de las bestias (2023)V.Ext.
 http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/163882.mkv
+#EXTINF:-1 tvg-name="Ant-Man (2015)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg"group-title="VOD | MARVEL",Ant-Man (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108190.mp4
+#EXTINF:-1 tvg-name="Vengadores: La era de Ultrón (2015)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SWfuMs4doCHcrz0InTh785SpQU.jpg"group-title="VOD | MARVEL",Vengadores: La era de Ultrón (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108192.mp4
+#EXTINF:-1 tvg-name="Vengadores: Infinity War (2018)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg"group-title="VOD | MARVEL",Vengadores: Infinity War (2018)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108193.mp4
+#EXTINF:-1 tvg-name="Black Panther (2018)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg"group-title="VOD | MARVEL",Black Panther (2018)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108194.mp4
+#EXTINF:-1 tvg-name="Capitán América: Civil War (2016)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLGMCQwiL6nhVtf9rz6RvayV32r.jpg"group-title="VOD | MARVEL",Capitán América: Civil War (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108195.mp4
+#EXTINF:-1 tvg-name="Capitán América: El primer vengador (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AZTlCFbe6vBcbzJ6fDLg0PTFVs.jpg"group-title="VOD | MARVEL",Capitán América: El primer vengador (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108196.mp4
+#EXTINF:-1 tvg-name="Capitán América: El soldado de invierno (2014)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QBRnyvJHD7slOlX6aukvMwcEu.jpg"group-title="VOD | MARVEL",Capitán América: El soldado de invierno (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108197.mp4
+#EXTINF:-1 tvg-name="Capitana Marvel (2019)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg"group-title="VOD | MARVEL",Capitana Marvel (2019)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108198.mp4
+#EXTINF:-1 tvg-name="Doctor Strange (2016)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAh03zjNzjhiQPrq4Dcr7qKDPlR.jpg"group-title="VOD | MARVEL",Doctor Strange (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108199.mp4
+#EXTINF:-1 tvg-name="Guardianes de la galaxia (2014)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg"group-title="VOD | MARVEL",Guardianes de la galaxia (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108200.mp4
+#EXTINF:-1 tvg-name="Iron Man 2 (2010)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrGGV2LFexs1WAB1idIchWlPvG7.jpg"group-title="VOD | MARVEL",Iron Man 2 (2010)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108202.mp4
+#EXTINF:-1 tvg-name="Iron Man 3 (2013)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcs4B2AiNPbVm8GFXNaTmvymR7x.jpg"group-title="VOD | MARVEL",Iron Man 3 (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108203.mp4
+#EXTINF:-1 tvg-name="Iron Man (2008)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veJTO75R5aapilhmlcFuqoGCPe3.jpg"group-title="VOD | MARVEL",Iron Man (2008)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108204.mp4
+#EXTINF:-1 tvg-name="Los Vengadores (2012)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyKKKSvjEgDVQ6vtm8vzL5Zx06c.jpg"group-title="VOD | MARVEL",Los Vengadores (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108206.mp4
+#EXTINF:-1 tvg-name="El increíble Hulk (2008)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg"group-title="VOD | MARVEL",El increíble Hulk (2008)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108207.mp4
+#EXTINF:-1 tvg-name="Thor (2011)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg"group-title="VOD | MARVEL",Thor (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108208.mp4
+#EXTINF:-1 tvg-name="Thor: Ragnarok (2017)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgVe7blGP5P71STv2TBXmO86qPo.jpg"group-title="VOD | MARVEL",Thor: Ragnarok (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108209.mp4
+#EXTINF:-1 tvg-name="Thor: El mundo oscuro (2013)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs5YLwGBCJBold74avD3NecO5Zc.jpg"group-title="VOD | MARVEL",Thor: El mundo oscuro (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108210.mp4
+#EXTINF:-1 tvg-name="Guardianes de la galaxia Vol. 2 (2017)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg"group-title="VOD | MARVEL",Guardianes de la galaxia Vol. 2 (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/108317.mp4
 #EXTINF:-1 tvg-name="007: Spectre (2015)"tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg"group-title="VOD | 2015",007: Spectre (2015)
 http://vod.tuxchannel.mx/peliculas/720/spectre.mkv
 #EXTINF:-1 tvg-name="Academia de espias (2015)"tvg-logo="https://m.media-amazon.com/images/I/515otw9YAML._SY445_.jpg"group-title="VOD | 2015",Academia de espias (2015)
@@ -3425,6 +3605,8 @@ https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%2
 http://streamgo.vip:8008/movie/GabrielJ./GcBRZdhdwEkk/343072.mkv
 #EXTINF:-1 tvg-name="Narvik (2023)"tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w780/mraEP5dvnZB94EF7qzG3m7KXyIC.jpg"group-title="VOD | 2023",Narvik (2023)
 http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1 tvg-name="Oppen heimer (2023)"tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"group-title="VOD | 2023",Oppen heimer (2023)
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
 #EXTINF:-1 tvg-name="Peter Pan y Wendy (2023)"tvg-logo="https://i.postimg.cc/YCqtyfS5/images.jpg"group-title="VOD | 2023",Peter Pan y Wendy (2023)
 http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
 #EXTINF:-1 tvg-name="Posesión infernal: El despertar (2023)"tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/4/w780/uwF8bBauJob5TISQ1cMHoVgIdWD.jpg"group-title="VOD | 2023",Posesión infernal: El despertar (2023)
